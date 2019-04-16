@@ -1,5 +1,5 @@
 # IA
-UCSP 2019 -1
+UCSP 2019-1
 
 Grupo:
 -Anco Valdivia Giancarlo Andre
