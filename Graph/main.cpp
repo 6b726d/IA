@@ -4,7 +4,7 @@
 #include <math.h>
 #include <GL/glut.h>
 #include <queue>
-#include"point.h"
+#include"graph.hpp"
 #define KEY_ESC 27
 graph G(150, 100, 5);
 
